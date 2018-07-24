@@ -1,0 +1,2 @@
+# emojipedia-db
+Emojis database
